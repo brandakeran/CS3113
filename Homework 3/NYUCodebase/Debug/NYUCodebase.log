@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(201): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(256): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(292): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(331): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 3\nyucodebase\main.cpp(332): warning C4018: '<': signed/unsigned mismatch
+  NYUCodebase.vcxproj -> C:\Users\Brandon\Documents\NYU\Spring2018\IntroToGameProgramming\Homework 3\Debug\NYUCodebase.exe
