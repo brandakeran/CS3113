@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 4\nyucodebase\main.cpp(104): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 4\nyucodebase\main.cpp(275): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 4\nyucodebase\main.cpp(276): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 4\nyucodebase\main.cpp(310): warning C4305: 'argument': truncation from 'double' to 'float'
+  NYUCodebase.vcxproj -> C:\Users\Brandon\Documents\NYU\Spring2018\IntroToGameProgramming\Homework 4\Debug\NYUCodebase.exe
