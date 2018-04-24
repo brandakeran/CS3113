@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(228): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(248): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\brandon\documents\nyu\spring2018\introtogameprogramming\homework 6\nyucodebase\main.cpp(249): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  NYUCodebase.vcxproj -> C:\Users\Brandon\Documents\NYU\Spring2018\IntroToGameProgramming\Homework 6\Debug\NYUCodebase.exe
